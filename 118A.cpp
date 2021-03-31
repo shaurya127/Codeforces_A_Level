@@ -12,6 +12,7 @@ using namespace std;
 #define vp vector<pair<int,int>>
 #include <map>
 #define mod 1000000007
+//shaurya127
 int gcd(int a, int b)
 {
     if (b == 0)
